@@ -1,4 +1,4 @@
-# Capstone3_cahaya
+#### **Cahaya Tambunan**
 
 # **Travel Insurance Claim Prediction**
 ## A. Business Understanding
